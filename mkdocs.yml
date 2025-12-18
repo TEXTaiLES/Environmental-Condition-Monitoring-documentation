@@ -16,7 +16,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: teal
+    primary: deep purple
   logo: assets/env_cond_mon_logo.png
   favicon: assets/env_cond_mon_logo.png
 

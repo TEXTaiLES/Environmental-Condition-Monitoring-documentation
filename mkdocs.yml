@@ -35,5 +35,8 @@ extra_javascript:
 # Page
 nav:
   - Home: index.md
+  - General Information: info/general_info.md
   - Deployment: 
     - Installation Steps: deployment/installation_basic.md
+  - 3D Case Design: case_design/case_design.md
+

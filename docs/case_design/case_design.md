@@ -1,6 +1,6 @@
 ## 3D Printable Enclosure
 
-The Raspberry Pi Zero W and the environmental sensor are housed in a custom-designed enclosure that can be 3D printed using the provided [STL files](https://github.com/TEXTaiLES/Environmental-Condition-Monitoring-documentation).
+The Raspberry Pi Zero W and the environmental sensor are housed in a custom-designed enclosure that can be 3D printed using the provided [STL files](https://github.com/TEXTaiLES/Environmental-Condition-Monitoring/tree/master/enclosure).
 
 The enclosure is designed to:
 
